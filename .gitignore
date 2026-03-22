@@ -1,0 +1,22 @@
+# الاعتماديات
+node_modules/
+
+# بيانات الخادم المؤقتة
+serverData.json
+
+# ملفات نظام التشغيل
+.DS_Store
+Thumbs.db
+
+# المتغيرات البيئية
+.env
+
+# ملفات السجلات
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# مجلدات الإخراج الاختيارية (إذا وُجدت لاحقاً)
+dist/
+build/
