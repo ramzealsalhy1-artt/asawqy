@@ -1,0 +1,19 @@
+{
+  "name": "asawqriyadatalmustahliks",
+  "version": "1.0.0",
+  "description": "منصة أسواق ريادة المستهلك - نظام متكامل مع مزامنة فورية عبر Socket.IO",
+  "main": "asawqriyadatalmustahliks.js",
+  "scripts": {
+    "start": "node asawqriyadatalmustahliks.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["marketplace", "ecommerce", "realtime", "socketio", "ar"],
+  "author": "أسواق ريادة المستهلك",
+  "license": "MIT"
+}
